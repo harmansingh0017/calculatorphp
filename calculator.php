@@ -22,6 +22,11 @@ else if($cal=="divide")
 echo $result = $Number1 / $Number2 ;
 
 }
+else if($cal=="sub")
+{
+echo $result = $Number1 - $Number2 ;
+
+}
 
  ?>
 
